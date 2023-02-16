@@ -11,7 +11,7 @@ import (
 	"runtime/pprof"
 	"strings"
 
-	"github.com/linhthuy98/hcl"
+	"github.com/hashicorp/hcl"
 )
 
 const Version = "0.1.0"
